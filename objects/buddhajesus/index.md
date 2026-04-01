@@ -13,6 +13,8 @@ tags:
 
 # Manichaean Portrait of the Buddha Jesus
 
+This is a silk portrait, which, according to Zsuzsanna Gulácsi, is a Manichaean icon depicting the Buddha-Jesus, "Buddha" referring to Jesus' status as a prophet in the Manichaean faith, created during the Song Dynasty in the 12th to 13th centuries. 
+
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
