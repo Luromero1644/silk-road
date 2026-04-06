@@ -1,30 +1,30 @@
 ---
 author: student name
-title: "Altarpiece from a Monastery"
+title: "Sogdian-language Letter"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+header-image: images/letter1.jpg
+thumbnail: images/letter2.jpg
+summary: A Sogdian-language letter written by an adherent to a bishop, both of Manichaean orientation. 
 geo: [47.199, 102.834]
 placename: Karakorum
 tags:
   - object
 ---
 
-# The Altarpiece from a Monastery
+# Medieval Manichaean Book Art
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Mediaeval Manichaean Book Art: A Codicological Study of Iranian and Turkic Illuminated Book Fragments from 8th–11th Century East Central Asia is a book by Zsuzsanna Gulácsi that analyzes and compares multiple surviving artifacts of Manichaean script. One of these artifcats is a Sogdian-language letter, written by Shahryâr Zâdag to Bishop Mu Wei, notable for its depiction of two 'deities' or angels of music. The letter was found in the Bezeklik Thousand Buddha Caves, in Xinjiang, China. It is categorized as 81 TB 65 by the Turpan Museum, where it is housed today. 
 
 
 ## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+caption="The deities of music. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+image-path="letter2.jpg"
 %}
+
+The letter is composed of nine pieces of paper glued together, all written in Sogdian. There is a vermilion seal on the paper adhesion and the bottom line, and there is an illustration in the middle of the upper line, depicting a pair of beautifully dressed figures wearing a scarf and crown, one blue and one green halo. These have been interpreted to be gods or angels of music. Between these divine beings of music, there is a Sogdian "Glory of Mucha" with gold leaf which has become the most eye-catching and unique symbol of the letter. Above the golden halo is a white hat crown exclusively for the Bishop, leader of the Elect. It is on a gold plate, which is placed on a red shawl floating in the air. There is a circular pool below the title, in which the fragrant flowers are in full bloom, and the flower core just holds up the two gods. According to Prof. Yutaka Yoshida, this letter shows the "latest" stage of the Sogdian language, in which some new words unknown to scholars were found. These letters provide evidence of the patronage the Uyghur Khaganate’s court had for not only Buddhism, but also Manichaeism, where it must have flourished for a time.
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 

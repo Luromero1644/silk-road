@@ -26,7 +26,7 @@ image-path="images/manicodex.jpg"
 
 Likely compiled from earlier traditions and statements attributed to Mani, from his being raised in a baptist sect of the Alchasaitic tradition (also known as Elcesaite, an ancient Jewish-Christian sect with gnostic leanings, according to the Church Fathers Epiphanius and Eusebius), to encountering his Heavenly Twin-self, and learning revelations and enlightenments that led to his creation of a new, missionary faith on the foundations of older traditions. It was likely translated in Egypt from Aramaic, a lingua franca across much of West Asia, to Greek. The context that Koenen and Romer provide between the discovery, translation, and analyzing of the minute codex highlight its importance to understanding the extinct religion, and, unprecedentedly, a biography that stems from actual believers, rather than polemical scholars belonging to Christianity, Islam or Buddhism. 
 
-
+# IGNORE, WIP
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
 [^randomthing]:Put your source information here.
