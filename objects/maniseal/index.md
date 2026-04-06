@@ -13,9 +13,7 @@ tags:
 
 # Sealstone of Mani
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+A crystal sealstone, likely from the 3rd century, in common Sassanian style, portraying the religious figure Mani and two attendants or followers. Very different from other Iranian gem seals. Interpreted to be a seal, but could also have been used as an engraved necklace ornament or amulet. 
 
 
 ## Contemporary to Mani?
