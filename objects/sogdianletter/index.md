@@ -16,7 +16,7 @@ tags:
 Mediaeval Manichaean Book Art: A Codicological Study of Iranian and Turkic Illuminated Book Fragments from 8th–11th Century East Central Asia is a book by Zsuzsanna Gulácsi that analyzes and compares multiple surviving artifacts of Manichaean script. One of these artifcats is a Sogdian-language letter, written by Shahryâr Zâdag to Bishop Mu Wei, notable for its depiction of two 'deities' or angels of music. The letter was found in the Bezeklik Thousand Buddha Caves, in Xinjiang, China. It is categorized as 81 TB 65 by the Turpan Museum, where it is housed today. 
 
 
-## Your First Section Heading
+## The Figures and Script
 {% include images/figure.html
 class="right"
 width="48%"
