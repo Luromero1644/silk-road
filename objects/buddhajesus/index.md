@@ -13,20 +13,17 @@ tags:
 
 # Manichaean Portrait of the Buddha Jesus
 
-This is a silk portrait, which, according to Zsuzsanna Gulácsi, is a Manichaean icon depicting the Buddha-Jesus, "Buddha" referring to Jesus' status as a prophet in the Manichaean faith, created during the Song Dynasty in the 12th to 13th centuries. 
+This is a silk portrait, which, according to Zsuzsanna Gulácsi, is a Manichaean icon depicting the Buddha-Jesus, "Buddha" referring to Jesus' status as a prophet in the Manichaean faith, created during the Song Dynasty in the 12th to 13th centuries. A large painting, it measures 153.5 cm in height and 58 cm in width. Regarded for years as a Buddhist or Nestorian Christian piece, there is argument for it being a sacred image of a different faith. 
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
+## Mani Who? 
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
+caption="The guiding prophet who greets the light-bodies of the righteous and pure. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
 image-path="images/buddhajesus.jpg"
 %}
+
+Concerning a medieval scroll portrait of Chinese origin portraying a familiar prophet, today held at Seiun-ji Temple in Japa, Prof. Zsuzsanna Gulácsi argues that the scroll, composed of gold and paint on silk, rather depicts Jesus in the fashion of the Manichaean faith; an extinct missionary world religion that once rivaled Christianity, active from late antiquity to the late medieval era. In her article analyzing this piece, Gulacsi compares the scroll to similar medieval Buddhist, Nestorian and Manichaean paintings, sculpture and reliefs, including a surviving 10th-century depiction of Manichaean Jesus from Kocho, a medieval Uyghur kingdom founded by refugees of the Uyghur Khanate (which was also the only state whose rulers actually converted to Manichaeism), as well as examples of early Christian art depicting Jesus. Aside from the claim of its Manichaean background, Gulácsi uses Takeo Izumi’s research (who was the first to conclude that the painting had a Christian origin) on dating the painting, comparing it to two contemporary Buddhist silk works, providing justification for its dating, origin, and religious background.
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
