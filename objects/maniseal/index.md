@@ -1,24 +1,24 @@
 ---
 author: student name
-title: "Altarpiece from a Monastery"
+title: "Seal of Mani"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
+header-image: images/maniseal.jpg
+thumbnail: images/maniseal.jpg
 summary: This image is of the Han coin, not an altarpiece from a monastery.
 geo: [47.199, 102.834]
-placename: Karakorum
+placename: Paris
 tags:
   - object
 ---
 
-# The Altarpiece from a Monastery
+# Sealstone of Mani
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
-## Your First Section Heading
+## Sealstone of Mani
 {% include images/figure.html
 class="right"
 width="48%"
