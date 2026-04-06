@@ -21,7 +21,7 @@ Mediaeval Manichaean Book Art: A Codicological Study of Iranian and Turkic Illum
 class="right"
 width="48%"
 caption="The deities of music. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="letter2.jpg"
+image-path="images/letter2.jpg"
 %}
 
 The letter is composed of nine pieces of paper glued together, all written in Sogdian. There is a vermilion seal on the paper adhesion and the bottom line, and there is an illustration in the middle of the upper line, depicting a pair of beautifully dressed figures wearing a scarf and crown, one blue and one green halo. These have been interpreted to be gods or angels of music. Between these divine beings of music, there is a Sogdian "Glory of Mucha" with gold leaf which has become the most eye-catching and unique symbol of the letter. Above the golden halo is a white hat crown exclusively for the Bishop, leader of the Elect. It is on a gold plate, which is placed on a red shawl floating in the air. There is a circular pool below the title, in which the fragrant flowers are in full bloom, and the flower core just holds up the two gods. According to Prof. Yutaka Yoshida, this letter shows the "latest" stage of the Sogdian language, in which some new words unknown to scholars were found. These letters provide evidence of the patronage the Uyghur Khaganate’s court had for not only Buddhism, but also Manichaeism, where it must have flourished for a time.
