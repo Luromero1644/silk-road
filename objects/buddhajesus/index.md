@@ -4,7 +4,7 @@ title: "Manichaean Portrait of the Buddha Jesus"
 layout: base
 header-image: images/buddhajesus.jpg
 thumbnail: images/buddhajesus.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
+summary: A silk painting of a familiar prophet.
 geo: [47.199, 102.834]
 placename: Karakorum
 tags:
