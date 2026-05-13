@@ -1,4 +1,4 @@
----
+  ---
 author: Lucas Romero
 title: "Manichaean Portrait of the Buddha Jesus"
 layout: base

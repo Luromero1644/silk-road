@@ -1,9 +1,9 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: Lucas Romero
+title: "Light on the Silk Road: Manichaeism Survivals in Medieval Art"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
+header-image: images/letter1.jpg
+thumbnail: images/buddhajesus.png
 summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
 ---
 
