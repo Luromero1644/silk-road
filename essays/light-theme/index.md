@@ -9,8 +9,8 @@ summary: How a dead religion is still remembered, more for its art than for its 
 
 # Introduction
 
-“Truth is your branch, joy is your leaves, love is your fruit, the eternal Living Self. Now, my God, I have seen you. I will not die! You are like the eternal light and living tree.” 
-Manichaean-Turkic fragment (SI6621), near Turfan. [^footnote1]
+“Truth is your branch, joy is your leaves, love is your fruit, the eternal Living Self. Now, my God, I have seen you. I will not die! You are like the eternal light and living tree.”
+- Manichaean-Turkic fragment (SI6621), near Turfan. [^footnote1]
 
 [^footnote1]:Zieme, Peter. (2019). Notes on a Manichaean Turkic Prayer Cycle. Written Monuments of the Orient. 5. 3-11. 10.17816/wmo25863 
 
@@ -33,7 +33,7 @@ Artistic Buddhist influence is also seen in surviving Manichaean art– with the
 
 [^footnote2]:Gulacsi, Artibus Asiae, p. 102 
 
-[^footnote3]:Gulacsi, MMBA, p. 102 
+[^footnote3]:Gulacsi, MMBA, p. 204 
 
 ## Western Influence
 {% include images/figure.html
@@ -43,7 +43,9 @@ caption="Sealstone of the Prophet. [Source](https://upload.wikimedia.org/wikiped
 image-path="images/maniseal.jpg"
 %}
 Mani’s native language was Syriac, a popular lingua franca of late antiquity. This was the language ancient Christianity used to proselytize those who were not of Greek or Latin background, a language active across the broader Middle East. In the Christian fashion, it was adopted as a liturgical language for the churches that spread eastward, and was used frequently by traders alongside that part of the world. It was adopted similarly for Manichaeaism: of the seven great works by Mani, six were written in Syriac, the last in Middle Persian. In what is presumed to be Mani’s official sealstone, the declaration of his successorship to Jesus Christ is also in Syriac.
-Another common language of the era was Koine Greek, which served as a lingua franca of the Mediterranean world, even following the Roman conquests. It was the most common language used by Christians, and so Manichaeans often adopted and used it to further their own agendas against their religious rivals. Alongside Greek, Coptic too was adopted, popular in Egypt, a base of influence for the western branch of Manichaeism. Many surviving religious documents today are in these languages, almost certainly translated from Syriac, found in deposits in Egypt. Seeing how it is these documents that survived in the Mediterranean world, it can be inferred how serious the evangelizing effort was on both ends of the Silk Road. 
+Another common language of the era was Koine Greek, which served as a lingua franca of the Mediterranean world, even following the Roman conquests. It was the most common language used by Christians, and so Manichaeans often adopted and used it to further their own agendas against their religious rivals. Alongside Greek, Coptic too was adopted, popular in Egypt, a base of influence for the western branch of Manichaeism. Many surviving religious documents today are in these languages, almost certainly translated from Syriac, found in deposits in Egypt. Seeing how it is these documents that survived in the Mediterranean world, it can be inferred how serious the evangelizing effort was on both ends of the Silk Road.[^footnote4] 
+
+[^footnote4]: Gulácsi, Zsuzsanna. “The Prophet’s Seal,” p. 170
 
 ## Survival by Art 
 Curiously enough, aside from his status as the founding prophet of a once-major world religion, Mani was also greatly renowned in his legacy as a painter. He was convinced that the only way his divine revelations could be conserved, without being misunderstood or corrupted by his successors, was to have it in writing. Surviving fragments speak of his prolific writing– the Manichaean canon was composed of both his own creations and works of other sources, such as the Book of Giants, remnants of which have been observed in the Dead Sea Scrolls, but one of the central holy books of the faith was known as the Arzhang (“Worthy”), or the Book of Pictures, written and illustrated by Mani’s hand. Mani himself, in the Kephalaia (‘Chapters’ in Greek, said to be the sayings of the prophet, similar to the hadith tradition that recounts the prophet Mohammad’s statements) states how art is necessary to establish true legitimacy: “Indeed, all the (apostles), my brethren who came prior to me: (They did not write) their wisdom in books the way that I, I have written it. (Nor) did they depict their wisdom in the pictures the way (that I, I have) depicted it. My church surpasses 30 (in this other matter also), for its primacy to the first churches.”
