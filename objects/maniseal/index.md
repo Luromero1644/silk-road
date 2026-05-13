@@ -5,7 +5,7 @@ layout: base
 header-image: images/maniseal.jpg
 thumbnail: images/maniseal.jpg
 summary: A contempory item to the founder of a dead faith.
-geo: [47.199, 102.834]
+geo: [48.858, 2.3514]
 placename: Paris
 tags:
   - object
