@@ -51,7 +51,7 @@ Another common language of the era was Koine Greek, which served as a lingua fra
 {% include images/figure.html
 class="right"
 width="58%"
-caption="Mughal depiction of Mani painting a dead dog. [Source](https://commons.wikimedia.org/wiki/File%3AMani_Painting_a_Dead_Dog.png)"
+caption="Mughal-era depiction of Mani painting a dead dog. [Source](https://commons.wikimedia.org/wiki/File%3AMani_Painting_a_Dead_Dog.png)"
 image-path="images/manipainting.jpg"
 %}
 Curiously enough, aside from his status as the founding prophet of a once-major world religion, Mani was also greatly renowned in his legacy as a painter. He was convinced that the only way his divine revelations could be conserved, without being misunderstood or corrupted by his successors, was to have it in writing. Surviving fragments speak of his prolific writing– the Manichaean canon was composed of both his own creations and works of other sources, such as the Book of Giants, remnants of which have been observed in the Dead Sea Scrolls, but one of the central holy books of the faith was known as the Arzhang (“Worthy”), or the Book of Pictures, written and illustrated by Mani’s hand. Mani himself, in the Kephalaia (‘Chapters’ in Greek, said to be the sayings of the prophet, similar to the hadith tradition that recounts the prophet Mohammad’s statements) states how art is necessary to establish true legitimacy: “Indeed, all the (apostles), my brethren who came prior to me: (They did not write) their wisdom in books the way that I, I have written it. (Nor) did they depict their wisdom in the pictures the way (that I, I have) depicted it. My church surpasses 30 (in this other matter also), for its primacy to the first churches.” [^footnote5]
