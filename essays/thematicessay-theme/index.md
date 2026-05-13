@@ -4,22 +4,23 @@ title: "Light on the Silk Road: Manichaeism Survivals in Medieval Art"
 layout: base
 header-image: images/letter1.jpg
 thumbnail: images/buddhajesus.png
-summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
+summary: How a dead religion is still remembered, more for its art than for its ideas.
 ---
 
-# Example Thematic Essay
+# Introduction
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
+“Truth is your branch, joy is your leaves, love is your fruit, the eternal Living Self. Now, my God, I have seen you. I will not die! You are like the eternal light and living tree.” 
+Manichaean-Turkic fragment (SI6621), near Turfan
+In the late ancient and medieval world, during the rise of Christianity, but before and during the origins of Islam, rose a unique religion that spread far along the trading routes modern scholars would deem ‘The Silk Road’. This creed was called Manichaeism, after its founder Mani, a 3rd-century prophet hailing from Sassanid Mesopotamia. It presented itself as the final and most truthful religion, the true and ultimate answer from a long line of prophets of surprisingly different backgrounds: Zoroaster, the traditional founder of Zoroastrianism (and the state religion of Mani’s home), Siddhartha Gautama, the Buddha, the traditional founder of Buddhism, Jesus Christ, the central figure of Christianity, and Mani himself. Mani drew from these faiths, amongst others– he was raised in a sect known as the ‘Alchasaitics,’ also known as the Elcesaites, a Jewish-Christian sect with gnostic leanings, but influences from these other ‘prophets’ can also be found in the new religion’s central teachings. For example, the radical dualism of Zoroastrianism, where the world is locked in an eternal epic battle between opposing forces of good and evil, or themes of light, the transmigration of souls and the structure of the Buddhist sangha (the “Elect,” who guide the lay followers, the “Hearers,”)  from Buddhism. Similar to one of its inspirations, Christianity, it was also a universal missionary religion, that sought converts and acceptance across the world, believing its teachings to be the most orthodox and true. Within decades, it had spread west to the far reaches of the Roman Empire, and to the East, finding much popularity in the diverse Buddhist communities of Central Asia and China, its adherents called Manichaeans, or Manichees. Whether it was its message of salvation by siding with the true, uncorrupted light, its foundation relying on other, often familiar religious traditions and ideals, its persistent missionary activity, its splendorous art, or a combination of these, Manichaeism emerged as a major rival to Christianity in late antiquity, and spread and endured for many centuries across the Silk Road trading network
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
 ## Your First Section Heading
-{% include images/figure.html
+{% include images/buddhajesus.jpg
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg"
+caption="Sacred Image of the Buddha (Prophet) Jesus. [Source](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jesus_as_a_Manichaean_Prophet%2C_13th_century.jpg/500px-Jesus_as_a_Manichaean_Prophet%2C_13th_century.jpg)"
+image-path="images/buddhajesus.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
