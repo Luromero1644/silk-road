@@ -15,7 +15,7 @@ tags:
 
 This is a silk portrait, which, according to Zsuzsanna Gulácsi, is a Manichaean icon depicting the Buddha-Jesus, "Buddha" referring to Jesus' status as a prophet in the Manichaean faith, created during the Song Dynasty in the 12th to 13th centuries. A large painting, it measures 153.5 cm in height and 58 cm in width. Regarded for years as a Buddhist or Nestorian Christian piece, there is argument for it being a sacred image of a different faith. 
 
-## Mani Who? 
+## Who is this?
 {% include images/figure.html
 class="right"
 width="48%"
