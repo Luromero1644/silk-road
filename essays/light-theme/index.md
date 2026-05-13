@@ -2,8 +2,8 @@
 author: Lucas Romero
 title: "Light on the Silk Road: Manichaeism Survivals in Medieval Art"
 layout: base
-header-image: images/letter1.jpg
-thumbnail: images/buddhajesus.png
+header-image: images/buddhajesus.jpg
+thumbnail: images/buddhajesus.jpg
 summary: How a dead religion is still remembered, more for its art than for its ideas.
 ---
 
