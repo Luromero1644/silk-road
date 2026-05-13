@@ -40,8 +40,8 @@ Artistic Buddhist influence is also seen in surviving Manichaean art– with the
 {% include images/figure.html
 class="left"
 width="48%"
-caption="Sacred Image of the Buddha (Prophet) Jesus. [Source](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jesus_as_a_Manichaean_Prophet%2C_13th_century.jpg/500px-Jesus_as_a_Manichaean_Prophet%2C_13th_century.jpg)"
-image-path="images/buddhajesus.jpg"
+caption="Sealstone of the Prophet. [Source](https://upload.wikimedia.org/wikipedia/commons/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg)"
+image-path="images/maniseal.jpg"
 %}
 Mani’s native language was Syriac, a popular lingua franca of late antiquity. This was the language ancient Christianity used to proselytize those who were not of Greek or Latin background, a language active across the broader Middle East. In the Christian fashion, it was adopted as a liturgical language for the churches that spread eastward, and was used frequently by traders alongside that part of the world. It was adopted similarly for Manichaeaism: of the seven great works by Mani, six were written in Syriac, the last in Middle Persian. In what is presumed to be Mani’s official sealstone, the declaration of his successorship to Jesus Christ is also in Syriac.
 Another common language of the era was Koine Greek, which served as a lingua franca of the Mediterranean world, even following the Roman conquests. It was the most common language used by Christians, and so Manichaeans often adopted and used it to further their own agendas against their religious rivals. Alongside Greek, Coptic too was adopted, popular in Egypt, a base of influence for the western branch of Manichaeism. Many surviving religious documents today are in these languages, almost certainly translated from Syriac, found in deposits in Egypt. Seeing how it is these documents that survived in the Mediterranean world, it can be inferred how serious the evangelizing effort was on both ends of the Silk Road. 
