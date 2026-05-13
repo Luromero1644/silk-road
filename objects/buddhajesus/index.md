@@ -35,3 +35,4 @@ During the Qing Dynasty, a book called 宋會要輯稿, or the 'Song Government 
 ## Bibliography
 
 - Gulácsi, Zsuzsanna. “A Manichaean ‘Portrait of the Buddha Jesus’: Identifying a Twelfth- or Thirteenth-Century Chinese Painting from the Collection of Seiun-ji Zen Temple.” Artibus Asiae 69, no. 1 (2009): 91–145.
+- Gulácsi, Zsuzsanna. Mediaeval Manichaean Book Art: A Codicological Study of Iranian and Turkic Illuminated Book Fragments from 8th–11th Century East Central Asia. Leiden: Brill, 2005. 
