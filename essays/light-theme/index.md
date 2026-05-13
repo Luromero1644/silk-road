@@ -32,13 +32,16 @@ Artistic Buddhist influence is also seen in surviving Manichaean art– with the
 
 [^randomthing]:Put your source information here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]:
 
 ## Western Influence
+
+{% include images/figure.html
+class="right"
+width="48%"
+caption="Sealstone of Mani". [Source](https://upload.wikimedia.org/wikipedia/commons/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg)"
+image-path="images/maniseal.jpg"
+%}
 Mani’s native language was Syriac, a popular lingua franca of late antiquity. This was the language ancient Christianity used to proselytize those who were not of Greek or Latin background, a language active across the broader Middle East. In the Christian fashion, it was adopted as a liturgical language for the churches that spread eastward, and was used frequently by traders alongside that part of the world. It was adopted similarly for Manichaeaism: of the seven great works by Mani, six were written in Syriac, the last in Middle Persian. In what is presumed to be Mani’s official sealstone, the declaration of his successorship to Jesus Christ is also in Syriac.
 Another common language of the era was Koine Greek, which served as a lingua franca of the Mediterranean world, even following the Roman conquests. It was the most common language used by Christians, and so Manichaeans often adopted and used it to further their own agendas against their religious rivals. Alongside Greek, Coptic too was adopted, popular in Egypt, a base of influence for the western branch of Manichaeism. Many surviving religious documents today are in these languages, almost certainly translated from Syriac, found in deposits in Egypt. Seeing how it is these documents that survived in the Mediterranean world, it can be inferred how serious the evangelizing effort was on both ends of the Silk Road. 
 
@@ -112,5 +115,11 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Zieme, Peter. (2019). Notes on a Manichaean Turkic Prayer Cycle. Written Monuments of the Orient. 5. 3-11. 10.17816/wmo25863-. 
+- Sundermann, Werner. "MANI." Encyclopaedia Iranica. Published July 20, 2009. https://doi.org/10.1163/2330-4804_EIRO_COM_940
+- Gulácsi, Zsuzsanna. “A Manichaean ‘Portrait of the Buddha Jesus’: Identifying a Twelfth- or Thirteenth-Century Chinese Painting from the Collection of Seiun-ji Zen Temple.” Artibus Asiae 69, no. 1 (2009): 91–145.
+- Gulácsi, Zsuzsanna. Mediaeval Manichaean Book Art: A Codicological Study of Iranian and Turkic Illuminated Book Fragments from 8th–11th Century East Central Asia. Leiden: Brill, 2005. 
+- Yoshida, Yutaka. “Conférence de M. Yutaka Yoshida : Manichaean Sogdian Letters Discovered in Bāzāklik.” Annuaire de l’École pratique des hautes études, Section des sciences religieuses 109 (2000–2001): 233–236.. 
+- Koenen, Ludwig, and Römer, Cornelia. eds. The Cologne Mani Codex (P. Colon. inv. nr. 4780): “On the Origin of His Body.” Corpus Fontium Manichaeorum. Universität zu Köln, 1988.
+- Gulácsi, Zsuzsanna. “The Prophet’s Seal: A Contextualized Look at the Crystal Sealstone of Mani (216–276 CE) in the Bibliothèque nationale de France.” Bulletin of the Asia Institute 24 (2010 [2014]): 161–185.
+- Gardner, I., & Lieu, S. N. C. (Eds.). (2004). Manichaean Texts from the Roman Empire. Cambridge University Press.
